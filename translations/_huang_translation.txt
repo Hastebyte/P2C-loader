@@ -1,0 +1,32 @@
+[Translate]
+
+Authentication								=登录
+Information									=信息
+Server Message								=服务器消息
+Serial Key									=充值卡
+Game/Game Type								=游戏/游戏类型
+Change hardware serial/Spoof hardware		=更改硬件序列号/硬件欺骗
+Authenticate/Login							=验证/登录
+Quit										=退出
+Information									=信息
+Loader Version								=辅助版本
+Latest Version								=最新版本
+Cheat Status								=辅助状态
+Undetected									=未被检测
+Detected									=被检测
+Hours left									=剩余时长
+Help/Help website							=帮助/帮助网站
+Windows version								=系统版本
+Required windows version					=辅助需求的系统版本
+Status										=状态
+Status: Invalid serial						=状态: 无效的充值卡
+Status: Serial registered to another user	=状态：充值卡已经被其他用户使用
+Status: Serial expired						=状态：充值卡过期
+Status: Serial banned						=状态：充值卡被禁用
+Status: Cheat is under maintenance			=状态：辅助处于暂停状态
+Error code									=错误代码
+
+This loader is out of date please upgrade your loader version. =辅助登录器已经过期，请使用新版本辅助
+
+
+Blacklisted tool has been detected, please close all reverse engineering programs. =发现禁止使用的软件，请关闭所有逆向软件！！
